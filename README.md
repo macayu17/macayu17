@@ -35,18 +35,16 @@ I am building my open-source track across developer tooling, AI infrastructure, 
 
 | Area | Repositories and contribution targets |
 | --- | --- |
-| Developer tooling | [Google Gemini CLI](https://github.com/google-gemini/gemini-cli), [Vitest](https://github.com/vitest-dev/vitest), [pyenv](https://github.com/pyenv/pyenv), [OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js) |
+| Developer tooling | [Vitest](https://github.com/vitest-dev/vitest), [pyenv](https://github.com/pyenv/pyenv), [OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js) |
 | AI and agents | [Pydantic AI](https://github.com/pydantic/pydantic-ai) |
-| Web and frameworks | [WordPress](https://github.com/WordPress/WordPress), [Svelte](https://github.com/sveltejs/svelte), [Processing Website](https://github.com/processing/processing-website), [Zulip](https://github.com/zulip/zulip) |
+| Web and frameworks | [WordPress](https://github.com/WordPress/WordPress), [Svelte](https://github.com/sveltejs/svelte) |
 | Data and infrastructure | [CDLI on GitLab](https://gitlab.com/cdli), [NASA F Prime GDS](https://github.com/nasa/fprime-gds), [OpenTelemetry](https://opentelemetry.io/) |
 
 **Current snapshot**
 
 - 76 public open-source contributions across GitHub and GitLab (64 GitHub PRs and 12 GitLab MRs), with 39 merged.
 - Contributed 12 merge requests to CDLI on GitLab, with 9 merged, improving repository tooling and data-processing workflows.
-- Contributed multiple pull requests to Google Gemini CLI, including WSL shell execution routing fixes and trusted tool configuration work.
-- Fixed a Processing website UI bug around incorrect search placeholder behavior.
-- Opening PRs across OpenTelemetry JS, Vitest, Svelte, Pydantic AI, pyenv, Zulip, and other tooling repos.
+- Opening PRs across OpenTelemetry JS, Vitest, Svelte, WordPress, Pydantic AI, pyenv, NASA F Prime GDS, and other tooling repos.
 
 ---
 
@@ -99,6 +97,7 @@ I am building my open-source track across developer tooling, AI infrastructure, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
@@ -117,14 +116,6 @@ I am building my open-source track across developer tooling, AI infrastructure, 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=macayu17&theme=github-compact&hide_border=true&area=true" alt="Ayush Kumar's contribution graph" />
 </p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macayu17/macayu17/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/macayu17/macayu17/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/macayu17/macayu17/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ---
 
