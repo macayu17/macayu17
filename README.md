@@ -35,10 +35,10 @@ I am building my open-source track across developer tooling, AI infrastructure, 
 
 | Area | Repositories and contribution targets |
 | --- | --- |
-| Developer tooling | [Google Gemini CLI](https://github.com/google-gemini/gemini-cli), [Vitest](https://github.com/vitest-dev/vitest), [OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js) |
+| Developer tooling | [Google Gemini CLI](https://github.com/google-gemini/gemini-cli), [Vitest](https://github.com/vitest-dev/vitest), [pyenv](https://github.com/pyenv/pyenv), [OpenTelemetry JS](https://github.com/open-telemetry/opentelemetry-js) |
 | AI and agents | [Pydantic AI](https://github.com/pydantic/pydantic-ai) |
-| Web and frameworks | [Svelte](https://github.com/sveltejs/svelte), [Processing Website](https://github.com/processing/processing-website), [Zulip](https://github.com/zulip/zulip) |
-| Data and infrastructure | [CDLI on GitLab](https://gitlab.com/cdli), [OpenTelemetry](https://opentelemetry.io/) |
+| Web and frameworks | [WordPress](https://github.com/WordPress/WordPress), [Svelte](https://github.com/sveltejs/svelte), [Processing Website](https://github.com/processing/processing-website), [Zulip](https://github.com/zulip/zulip) |
+| Data and infrastructure | [CDLI on GitLab](https://gitlab.com/cdli), [NASA F Prime GDS](https://github.com/nasa/fprime-gds), [OpenTelemetry](https://opentelemetry.io/) |
 
 **Current snapshot**
 
