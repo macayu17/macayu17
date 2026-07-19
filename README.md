@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=CS+Student+%7C+Full-Stack+%2B+AI+Systems+Developer+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Ayush Kumar</h1>
-
-<p align="center">
-  I build backend, real-time, and AI-integrated systems across distributed simulation, AI memory infrastructure, trading workflows, and open-source tooling.
-</p>
-
 <p align="center">
   <a href="https://ayushh.in">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
