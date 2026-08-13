@@ -92,13 +92,9 @@ I am building my open-source track across developer tooling, AI infrastructure, 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=macayu17&style=flat-square&color=2563eb" alt="Profile views" />
+  <img src="./gitbanner.svg" alt="GitBanner profile statistics" />
 </p>
 
----
-
-## GitBanner
-
 <p align="center">
-  <img src="./gitbanner.svg" alt="GitBanner profile statistics" />
+  <img src="https://komarev.com/ghpvc/?username=macayu17&style=flat-square&color=2563eb" alt="Profile views" />
 </p>
