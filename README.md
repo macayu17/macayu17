@@ -18,7 +18,7 @@ Currently building **[Cutscene](https://github.com/macayu17/Cutscene)**.
 
 ### Open Source
 
-- Authored **[100+ merged GitHub PRs](https://github.com/search?q=author%3Amacayu17+is%3Apr+is%3Amerged&type=pullrequests)** across projects including Sugar Labs, pyenv, OpenTelemetry, and NASA.
+- Authored **[115+ merged GitHub PRs](https://github.com/search?q=author%3Amacayu17+is%3Apr+is%3Amerged&type=pullrequests)** across projects including Sugar Labs, pyenv, OpenTelemetry, and NASA.
 - Contributed to [CDLI](https://gitlab.com/cdli) on GitLab, improving repository tooling and data workflows.
 
 ### Tech Stack
